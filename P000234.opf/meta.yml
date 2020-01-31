@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །ཆོས་མངོན་པ་མཛོད་ཀྱི་སྤྱི་དོན་ཤེས་བྱ་རབ་གསལ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། མང་ཐོས་ཀླུ་སྒྲུབ་རྒྱ་མཚོ།
+  sku: IBA-LG-01-1
+  layers:
+  - book_title
+  - author
+  - quotation
+web_metadata:
+  title:
+    en: The General Meaning of Abhidharma
+    bo: ཆོས་མངོན་པ་མཛོད་ཀྱི་སྤྱི་དོན་ཤེས་བྱ་རབ་གསལ།
+  collection:
+    en: IBA Ludrup Gyatso Series–  Book 1
+    bo: ཀླུ་སྒྲུབ་རྒྱ་མཚོ་རྩོམ་བྲིས།–  དེབ། ༡
+  author:
+    en: Mangtho Ludrup Gyatso
+    bo: མང་ཐོས་ཀླུ་སྒྲུབ་རྒྱ་མཚོ།
+  pusblisher:
+    en: IBA Publications
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་།
+  sku: IBA-LG-01-1
+  category:
+    en: Abhidharma
+    bo: ཆོས་མངོན་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: IBA-LG-01-1.epub
+  description:
+    en: The general presentation of the Abhidharmakosa is the commentary on the phenomenology
+      of Acharya Vasubandhu.
+    bo: སློབ་དཔོན་དབྱིག་གཉེན་གྱིས་མཛད་པའི་མངོན་པའི་བསྟན་བཅོས་ཀྱི་སྤྱིའི་དོན་གསལ་བར་བཤད་པ།
