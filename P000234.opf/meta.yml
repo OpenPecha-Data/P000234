@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000234
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་མངོན་པ་མཛོད་ཀྱི་སྤྱི་དོན་ཤེས་བྱ་རབ་གསལ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། མང་ཐོས་ཀླུ་སྒྲུབ་རྒྱ་མཚོ།
-  sku: IBA-LG-01-1
   layers:
   - book_title
   - author
   - quotation
+  id: IBA-LG-01-1
 web_metadata:
   title:
     en: The General Meaning of Abhidharma
